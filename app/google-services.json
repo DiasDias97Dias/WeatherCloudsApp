@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752741935001",
+    "firebase_url": "https://weatherclouds-a9eb4.firebaseio.com",
+    "project_id": "weatherclouds-a9eb4",
+    "storage_bucket": "weatherclouds-a9eb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752741935001:android:877e881c5296ab40",
+        "android_client_info": {
+          "package_name": "com.example.google.weatherclouds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752741935001-tgmc68agimauvoum26erpadcriohg48p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google.weatherclouds",
+            "certificate_hash": "74d439b935679903f7fddbf59e7df6ef5c9c13ef"
+          }
+        },
+        {
+          "client_id": "752741935001-l8pnurk0qnd9mmi4qnvcdl4neigpi5bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1ZI0IRFX1UQBtGxA5vZwHJpwzTcxj_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752741935001-l8pnurk0qnd9mmi4qnvcdl4neigpi5bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
