@@ -81,7 +81,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             }
 
         };
-        if( i.getExtras()!=null && i.getStringExtra("x").length()>0 ){
+        if( i.getExtras()!=null && i.getStringExtra("x")!=null ){
             String msg=i.getStringExtra("msg");
             addTile("default");
             int x=Integer.valueOf(i.getStringExtra("x"));
